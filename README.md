@@ -9,6 +9,9 @@ The open-source platform for monitoring and observability
 [![Stars](https://img.shields.io/github/stars/pooja-bhavani/todo-list-app?style=social)](https://github.com/pooja-bhavani/todo-list-app/stargazers)
 [![Issues](https://img.shields.io/github/issues/pooja-bhavani/todo-list-app)](https://github.com/pooja-bhavani/todo-list-app/issues)
 
+[![License](https://img.shields.io/github/license/grafana/grafana)](LICENSE)
+[![Drone](https://drone.grafana.net/api/badges/grafana/grafana/status.svg)](https://drone.grafana.net/grafana/grafana)
+[![Go Report Card](https://goreportcard.com/badge/github.com/grafana/grafana)](https://goreportcard.com/report/github.com/grafana/grafana) 
 
 Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored. Create, explore, and share dashboards with your team and foster a data-driven culture:
 
