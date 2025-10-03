@@ -3,11 +3,7 @@
 
 The open-source platform for monitoring and observability
 
-[![License](https://img.shields.io/github/license/pooja-bhavani/todo-list-app)](LICENSE)
-[![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-blue?logo=github)](https://pooja-bhavani.github.io/todo-list-app/)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/pooja-bhavani/todo-list-app/deploy.yml?branch=main)](https://github.com/pooja-bhavani/todo-list-app/actions)
-[![Stars](https://img.shields.io/github/stars/pooja-bhavani/todo-list-app?style=social)](https://github.com/pooja-bhavani/todo-list-app/stargazers)
-[![Issues](https://img.shields.io/github/issues/pooja-bhavani/todo-list-app)](https://github.com/pooja-bhavani/todo-list-app/issues)
+
 
 [![License](https://img.shields.io/github/license/grafana/grafana)](LICENSE)
 [![Drone](https://drone.grafana.net/api/badges/grafana/grafana/status.svg)](https://drone.grafana.net/grafana/grafana)
