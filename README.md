@@ -3,11 +3,11 @@
 
 The open-source platform for monitoring and observability
 
-[![License](https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPO)](LICENSE)
-[![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-blue?logo=github)](https://YOUR_USERNAME.github.io/YOUR_REPO/)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/YOUR_USERNAME/YOUR_REPO/deploy.yml?branch=main)](https://github.com/YOUR_USERNAME/YOUR_REPO/actions)
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=social)](https://github.com/YOUR_USERNAME/YOUR_REPO/stargazers)
-[![Issues](https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_REPO)](https://github.com/YOUR_USERNAME/YOUR_REPO/issues)
+[![License](https://img.shields.io/github/license/pooja-bhavani/todo-list-app)](LICENSE)
+[![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-blue?logo=github)](https://pooja-bhavani.github.io/todo-list-app/)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/pooja-bhavani/todo-list-app/deploy.yml?branch=main)](https://github.com/pooja-bhavani/todo-list-app/actions)
+[![Stars](https://img.shields.io/github/stars/pooja-bhavani/todo-list-app?style=social)](https://github.com/pooja-bhavani/todo-list-app/stargazers)
+[![Issues](https://img.shields.io/github/issues/pooja-bhavani/todo-list-app)](https://github.com/pooja-bhavani/todo-list-app/issues)
 
 
 Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored. Create, explore, and share dashboards with your team and foster a data-driven culture:
